@@ -33,7 +33,7 @@ def re():
         print("Yes")
         startGame()
     elif retry == ('n' or 'no'):
-        print("No")
+        print("No") 
         exit()
     else:
         print("Invalid input, choose again.")
